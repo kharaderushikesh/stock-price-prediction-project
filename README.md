@@ -57,7 +57,9 @@ The graph below demonstrates the model's ability to predict stock prices accurat
 3. **Green Line**: ARIMA Predictions
 4. **Red Line**: Combined Predictions
 
-![Graph Placeholder](placeholder_for_actual_graph.png)
+## Model Prediction Output
+
+![Prediction](Images/prediction.png)
 
 ---
 
